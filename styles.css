@@ -170,28 +170,32 @@ p {
   stroke-linejoin: round;
 }
 
-.social-link:nth-child(1) svg {
+.social-cv svg {
   color: #7c3aed;
 }
 
-.social-link:nth-child(2) svg {
-  color: #d93025;
-}
-
-.social-link:nth-child(3) svg {
+.social-scholar svg {
   color: #4285f4;
 }
 
-.social-link:nth-child(4) svg {
+.social-github svg {
   color: #181717;
 }
 
-.social-link:nth-child(5) svg {
+.social-linkedin svg {
   color: #0a66c2;
 }
 
-.social-link:nth-child(6) svg {
+.social-x svg {
   color: #000000;
+}
+
+.social-email {
+  grid-column: 1 / -1;
+}
+
+.social-email svg {
+  color: #d93025;
 }
 
 .social-link span {
