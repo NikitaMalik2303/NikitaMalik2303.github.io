@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+images/company-placeholder.svg
+images/logos/sample-logo.svg
